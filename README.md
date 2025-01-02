@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Rhamsez Thevenin
+# Hi, I'm Rhamsez
 
-I'm a fifth-year software engineering student at the Rochester Institute of Technology, with a passion for creating impactful software and web solutions. Based in Sharon, MA, I enjoy building interactive and user-friendly applications that bring ideas to life.
+Software Engineer building impactful solutions with modern tech stacks. Currently a student at RIT focusing on full-stack development and cloud technologies.
 
-## 📫 Let's Connect
-- Visit my personal website: [www.rhamzthev.com](https://www.rhamzthev.com)
-- Reach out to me via email: `rhamzthev@gmail.com`
+## Let's Connect
+- LinkedIn: [Rhamsez Thevenin](https://linkedin.com/in/rhamzthev)
+- Personal Website: [rhamzthev.com](https://rhamzthev.com)
 
-Thanks for stopping by!
+Always open to collaborating on interesting projects!
