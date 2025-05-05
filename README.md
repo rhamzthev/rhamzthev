@@ -1,4 +1,4 @@
-<h2 align="center">Hey! Have a startup idea? Hit me up! Let me handle development so you can focus on business!</h2>
+<h3 align="center">Hey! Have a startup idea? Hit me up! Let me handle development so you can focus on business!</h3>
 <br/>
 <h1 align="center">Hi, I'm Rhamsez Thevenin</h1>
 <p align="center">
