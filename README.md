@@ -1,3 +1,5 @@
+<h2 align="center">Hey! Have a startup idea? Hit me up! Let me handle development so you can focus on business!</h2>
+<br/>
 <h1 align="center">Hi, I'm Rhamsez Thevenin</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+and+Mobile+Developer;Game+Developer;Content+Creator" alt="Typing SVG" />
@@ -27,5 +29,3 @@ From developing enterprise software for companies and smaller-scale websites for
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-<p align="center">Have a startup idea? Hit me up! I'll handle development so you can handle business!</p>
