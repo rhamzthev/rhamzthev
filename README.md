@@ -28,4 +28,4 @@ From developing enterprise software for companies and smaller-scale websites for
   </a>
 </p>
 
-<p align="center">I'm always looking to learn and grow as a developer. Let's connect if you want to talk tech or collaborate on interesting projects!</p>
+<p align="center">Have a startup idea? Hit me up! I'll handle development so you can handle business!</p>
