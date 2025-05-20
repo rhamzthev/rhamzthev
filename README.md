@@ -11,10 +11,8 @@ I'm focused on building useful applications that solve real problems by using mo
 
 From developing enterprise software for companies and smaller-scale websites for startups, my experience in software engineering and my background in martial arts, music, and philosophy gives me a unique perspective on problem-solving and creativity in tech.
 
-## 🔭 Current Work
-- **Software Engineering Teaching Assistant** at RIT for Web Engineering and Concurrent Systems
-
 ## 💼 Experience Highlights
+- **Software Engineering Teaching Assistant** at RIT for Web Engineering and Concurrent Systems
 - **Software Engineer Co-Op** at IDI Billing Solutions
 - **Software Engineer (Contractor)** at Midnight Mansion
 
