@@ -1,5 +1,3 @@
-<h3 align="center">Hey! Have a startup idea? Hit me up! Let me handle development so you can focus on business!</h3>
-<br/>
 <h1 align="center">Hi, I'm Rhamsez Thevenin</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Software+Engineer;Web+and+Mobile+Developer;Game+Developer;Content+Creator" alt="Typing SVG" />
