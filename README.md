@@ -1,3 +1,3 @@
-# I MIGRATED TO GITLAB
+# I MIGRATED TO A PERSONAL GIT PAGE
 
-<a href="https://gitlab.com/rhamzthev/">Visit my GitLab</a> 
+<a href="https://git.rhamzthev.com/rhamzthev">Visit my Git</a> 
