@@ -1,6 +1,6 @@
-# ALL MY PROJECTS ARE NOW ON GITLAB AND A PERSONAL GIT SERVER
+# ALL MY PROJECTS ARE NOW ON CODEBERG AND A PERSONAL GIT SERVER
 
-<a href="https://gitlab.com/rhamzthev">Visit my GitLab</a>
+<a href="https://codeberg.org/rhamzthev">Visit my Codeberg</a>
 
 <a href="https://git.rhamzthev.com/rhamzthev">Visit my Git</a> 
 
